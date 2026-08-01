@@ -1,0 +1,20 @@
+# Byte-code / binary outputs
+*.class
+bin/
+target/
+*.jar
+__pycache__/
+~$*.docx
+
+# Temporary extraction & scratch files
+extract.py
+create_docx.py
+temp_docx/
+extracted_text.txt
+assignment_content.txt
+
+# OS & IDE generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
